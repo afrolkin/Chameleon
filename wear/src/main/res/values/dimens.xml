@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">14dp</dimen>
+    <dimen name="y_offset">5dp</dimen>
+    <dimen name="x_offset_round">5dp</dimen>
+    <dimen name="x_offset_square">6dp</dimen>
+</resources>
